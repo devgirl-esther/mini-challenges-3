@@ -28,7 +28,7 @@ function listSorting(needle, haystack) {
     }
     }
 
-    console.log(listSorting(5, [1, 2, 3, 4, 5]))
+    
  
 
 

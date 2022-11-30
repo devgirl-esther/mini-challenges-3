@@ -24,5 +24,5 @@ let finalNumber = parseInt(binaryString,2)
 let final = `${finalNumber}`
 return final
 }
-console.log(binaryReversal("4567"))
+
 module.exports = binaryReversal;
